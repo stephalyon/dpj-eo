@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "packmind": {
+      "type": "http",
+      "url": "https://app.packmind.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4N2RjNDVhOS1mYzNiLTQ4OGItODlkMy1jZjhiODA5YmVjN2QiLCJlbWFpbCI6InNtYWduYW43MUBnbWFpbC5jb20iLCJvcmdhbml6YXRpb25JZCI6ImNlNzIyODkyLWRkMDctNDZkZC1hN2U0LWRhOWExMGMyNWM3YiIsInVzZXIiOnsibmFtZSI6InNtYWduYW43MUBnbWFpbC5jb20iLCJ1c2VySWQiOiI4N2RjNDVhOS1mYzNiLTQ4OGItODlkMy1jZjhiODA5YmVjN2QifSwib3JnYW5pemF0aW9uIjp7ImlkIjoiY2U3MjI4OTItZGQwNy00NmRkLWE3ZTQtZGE5YTEwYzI1YzdiIiwibmFtZSI6IkhvbWUiLCJzbHVnIjoiaG9tZSIsInJvbGUiOiJhZG1pbiJ9LCJpYXQiOjE3NjU5OTgwNzksImV4cCI6MTc2ODU5MDA3OSwiaXNzIjoicGFja21pbmQtbWNwIn0.KEMyP33o6wKDP_jfJz6pbT53qz1JdfRQw0sEZ8Lf6Cc"
+      }
+    }
+  }
+}
