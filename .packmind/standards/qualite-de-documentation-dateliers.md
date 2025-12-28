@@ -11,3 +11,5 @@ Assurer la qualité et la cohérence de tous les livrables produits lors des wor
 * Rédiger en français tous les livrables métier ; les annexes techniques peuvent utiliser l'anglais si approprié
 * Inclure des checklists de validation dans tous les templates pour garantir la complétion avant diffusion
 * Exporter les livrables finaux vers PowerPoint en utilisant le template organisation après validation Markdown
+* Valider explicitement que toutes les questions d'un step ont reçu une réponse avant de passer au step suivant, sauf si l'absence de réponse est documentée comme "information non disponible"
+* Utiliser des tableaux Markdown pour représenter les processus, flux et diagrammes Swimlane plutôt que de l'ASCII art, en structurant par phases logiques

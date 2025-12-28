@@ -4,7 +4,7 @@ This standards index contains all available coding standards that can be used by
 
 ## Available Standards
 
-- [Qualité de Documentation d'Ateliers](./standards/qualite-de-documentation-dateliers.md) : Garantir des livrables d'ateliers de qualité, cohérents, et exploitables en français.
+- [Qualité de Documentation d'Ateliers](./standards/qualite-de-documentation-dateliers.md) : Standardize workshop deliverables using French-first Markdown templates, centralized glossaries, and reviewer-validated checklists before PowerPoint export to ensure linguistic consistency, terminological alignment, and complete, high-quality documentation.
 
 
 ---
