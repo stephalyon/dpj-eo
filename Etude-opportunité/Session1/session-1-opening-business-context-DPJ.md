@@ -41,7 +41,7 @@
 | Indicateur | Valeur | Impact Business |
 |------------|--------|-----------------|
 | **Dossiers créés/mois** | 150 000 | 🔴 Volume critique |
-| **Documents/dossier (moyenne)** | 15 | **Total : 2,25M documents/mois** |
+| **Documents/dossier (moyenne)** | 6 | **Total : 900 000 documents/mois** |
 | **Types d'actes bancaires** | 200 | 🟠 Complexité élevée |
 | **Répartition clients** | 80% PP / 20% PM | Focus Personnes Physiques |
 | **Validation manuelle** | 99% | 🔴 **Charge conseillers massive** |
