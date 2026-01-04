@@ -62,12 +62,12 @@ Détailler chaque problème identifié en Session 1 avec le framework Lean Canva
 ### P1: Volume critique et charge manuelle (99% validation manuelle)
 
 **Lean Canvas :**
-- **Problème :** 150 000 dossiers créés/mois avec 900000 documents nécessitant 99% de validation manuelle, générant une charge conseillers massive et inefficacité opérationnelle
+- **Problème :** 150 000 dossiers créés/mois avec 2,25M documents nécessitant 99% de validation manuelle, générant une charge conseillers massive et inefficacité opérationnelle
 - **Segments clients impactés :** Personnes Physiques (80% du portefeuille), Personnes Morales (20%)
-- **Solution existante :** Validation manuelle à 99%, RAD/LAD minimal (1%)
-- **Proposition de valeur :** Augmenter validation automatisée des documents (cible 50-70%), réduire temps traitement, libérer conseillers pour activités à haute valeur, solliciter conseillers pour lever les doutes
+- **Solution existante :** Validation manuelle à 99%, RAD/LAD minimal (1%), processus RPA partiels
+- **Proposition de valeur :** Augmenter automatisation validation documents (cible 50-70%), réduire temps traitement, libérer conseillers pour activités à haute valeur
 - **Métriques clés :** Taux automatisation validation, temps traitement moyen, productivité conseiller, satisfaction collaborateur
-- **Impact financier :** 150k dossiers × 6 documents × 30 secondes validation = ~7500 heures/mois
+- **Impact financier :** 150k dossiers × 15 documents × 0.5h validation = ~1,125M heures/mois à rationaliser
 
 **Mapping → Axes de valeurs :**
 - ✅ **Efficacité opérationnelle** (charge conseillers, productivité)
@@ -82,9 +82,9 @@ Détailler chaque problème identifié en Session 1 avec le framework Lean Canva
 - **Problème :** 450 000 documents rejetés mensuellement pour non-conformité, générant cycles de correction longs, friction client, et retards traitement dossiers
 - **Segments clients impactés :** Tous les segments, surtout dossiers complexes (actes bancaires diversifiés)
 - **Solution existante :** Processus de rejet et re-soumission manuel, feedback verbal incohérent
-- **Proposition de valeur :** Réduire rejets (cible 10%), améliorer qualité documents à la source, diminuer les cycles rejet/correction
+- **Proposition de valeur :** Réduire rejets (cible 10%), améliorer qualité documents à la source, réduire délai de correction et resoumission
 - **Métriques clés :** Taux de rejet par type document, délai correction, satisfaction clients
-- **Impact financier :** 450k × 0.2h correction = 90k heures/mois, friction client élevée
+- **Impact financier :** 450k × 0.5h correction = 225k heures/mois, friction client élevée
 
 **Mapping → Axes de valeurs :**
 - ✅ **Satisfaction clients** (irritant majeur, cycles courts)
@@ -114,9 +114,9 @@ Détailler chaque problème identifié en Session 1 avec le framework Lean Canva
 
 **Lean Canvas :**
 - **Problème :** Portefeuille très diversifié (200 types d'actes) complique automatisation, nécessite expertise pointue des conseillers, pose risques conformité
-- **Segments clients impactés :** Particulièrement dossiers Personnes Morales complexes, cas spéciaux, dossier crédits habitat
+- **Segments clients impactés :** Particulièrement dossiers Personnes Morales complexes, cas spéciaux
 - **Solution existante :** Classification manuelle par experts, prototypage lent pour nouveaux actes
-- **Proposition de valeur :** Structurer demande des documents par actes en étapes pour simplifier onboarding client, simplifier onboarding nouveaux types, réduire expertise requise
+- **Proposition de valeur :** Structurer actes en familles homogènes, simplifier onboarding nouveaux types, réduire expertise requise
 - **Métriques clés :** Nombre actes couverts automatiquement, temps onboarding actes nouveaux
 - **Impact financier :** Meilleure scalabilité, réduction expertise rare
 
