@@ -10,6 +10,7 @@ Faciliter la deuxième session d'une étude d'opportunité pour transformer les 
 
 ## Context Validation Checkpoints
 
+* [ ] **ALIGNEMENT OBLIGATOIRE :** Énumérer les 6 problèmes exactement tels que définis en Session 1 (avec titres et numérotation P1-P6 identiques)
 * [ ] Les 6 problèmes de Session 1 sont-ils validés par tous les participants ?
 * [ ] Disposons-nous des éléments de stratégie d'entreprise et IT (prérequis, OKRs) ?
 * [ ] Les participants connaissent-ils la structure du Vision Statement (2 thèmes, axes de valeurs) ?
@@ -19,6 +20,8 @@ Faciliter la deuxième session d'une étude d'opportunité pour transformer les 
 ## Recipe Steps
 
 ### Step 1: Problem Deep Dive avec Lean Canvas (1h30)
+
+**🚨 RÈGLE D'ALIGNEMENT OBLIGATOIRE :** Les 6 problèmes (P1 à P6) énumérés en Session 2 **DOIVENT être exactement les mêmes** que ceux validés en Session 1. Ne pas reformuler, synthétiser ou remplacer les problèmes sans consensus explicite des participants. Énumérer d'abord les 6 problèmes Session 1 avec leurs titres exacts, puis détailler chacun avec le framework Lean Canvas.
 
 Reprendre chaque problème identifié en Session 1 et le détailler avec le framework Lean Canvas. Pour chaque problème, documenter : problème client, segments clients affectés, solution existante, proposition de valeur, canaux, revenue streams, structure de coûts, métriques clés, avantage distinctif. Mapper explicitement chaque problème vers les axes de valeurs du Vision Statement (Conquête, Efficacité opérationnelle, Réglementaire, Satisfaction clients pour Métier ; Optimisation Run, Modernisation SI pour IT).
 
